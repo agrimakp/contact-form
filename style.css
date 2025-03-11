@@ -1,0 +1,18 @@
+:root {
+
+    --light-green: hsl(148, 38%, 91%);
+    --medium-green: hsl(169, 82%, 27%);
+    --red: hsl(0, 66%, 54%);
+    --white: hsl(0, 0%, 100%);
+    --medium-gray: hsl(186, 15%, 59%);
+    --darker-gray: hsl(187, 24%, 22%);
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+}
