@@ -16,3 +16,24 @@
 html {
     height: 100vh;
 }
+
+body {
+    background-color: var(--light-green);
+    font-family: 'Karla', sans-serif;
+    height: 100%;
+    font-size: 16px;
+}
+
+main {
+    display: grid;
+    place-items: center;
+    padding: 120px 0px;
+}
+
+.container {
+    background-color: var(--white);
+    border-radius: 10px;
+    padding: 20px;
+    width: 736px;
+    height: 100%;
+}
